@@ -1,1 +1,1 @@
-# HyperShot-StormWare
+cool basic internal for Hypershot
